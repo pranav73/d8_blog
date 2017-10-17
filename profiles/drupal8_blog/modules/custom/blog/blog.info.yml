@@ -1,0 +1,15 @@
+name: blog
+description: 'Provides blog content type and related configuration. '
+type: module
+core: 8.x
+dependencies:
+  - comment
+  - field
+  - file
+  - image
+  - menu_ui
+  - node
+  - path
+  - text
+  - user
+version: 8.x-1.0

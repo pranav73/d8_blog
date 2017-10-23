@@ -1,0 +1,14 @@
+uuid: e64c961a-b4c2-41f0-a5b7-4f177bcc8d85
+langcode: en
+status: true
+dependencies: {  }
+id: blogger
+label: blogger
+weight: 3
+is_admin: null
+permissions:
+  - 'access comments'
+  - 'delete own blog content'
+  - 'edit own blog content'
+  - 'edit own comments'
+  - 'post comments'
